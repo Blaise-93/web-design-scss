@@ -1,0 +1,13 @@
+Here we created a mock project structure using Sass to go about it!
+
+Sass as a preprocessor of css is heavily harnessed here throughout my learning.
+
+Sass is a superset of css. It's mixins, partials, variables, intrapolations and functions manipulations are cute.
+
+I tried to create navbar, menu, about,contact and footer! :)
+
+JS used was majorly to make the menu reactive/functional.
+
+It is fun learning this, kindly check it out.
+
+thank you for sticking around and checking my project!
